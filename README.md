@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at Microverse
 - 🌱 I’m currently learning Javaascipt
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Flutter,Dart,Javascript
 - 📫 How to reach me: matovu90@gmail.com
 - ⚡ Fun fact: I love clean code.
