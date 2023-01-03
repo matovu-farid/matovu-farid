@@ -2,9 +2,7 @@
 
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working at Microverse
+- 🔭 I’m currently working at Dabblelab
 - 🌱 I’m currently learning Javascipt
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Flutter,Dart,Javascript
